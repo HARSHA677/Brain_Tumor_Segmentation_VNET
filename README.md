@@ -18,6 +18,8 @@
 
 *Only 30 samples of the HGG dataset considered for training due to memory (RAM and GPU) constraint.
 
+*Dataset can be accesses from https://drive.google.com/drive/folders/1hst3tiH6nk4IexlUiL32eVHvnb_MR7Z7
+
 
 # Pre-Processing
 *Each 3D volume of 4 has a size of 240×240×155 for all modalities and ground truth.
@@ -94,6 +96,10 @@ Measures the overlap between the predicted zone and the ground truth as a propor
 
 
 ![image](https://github.com/HARSHA677/Brain_Tumor_Segmentation_VNET/assets/53110311/39fe5f02-1ae8-452c-baf6-8f3d57ac00de)
+
+
+
+# Conclusion
 
 
 *In conclusion, the performance metrics of model showcase its robustness and effectiveness in the segmentation/classification task.
